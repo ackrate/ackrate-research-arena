@@ -41,7 +41,7 @@ budget-compliant evidence portfolio.
   <a href="https://ackratearena.xyz/app">Launch product</a> ·
   <a href="API.md">API reference</a> ·
   <a href="ARCHITECTURE.md">Architecture</a> ·
-  <a href="FRONTEND_HANDOFF.md">Frontend handoff</a> ·
+  <a href="https://github.com/ackrate/ackrate-research-arena/blob/01d9b9b38b92c87d2bc663d76a1a97dda2686ea3/FRONTEND_HANDOFF.md">Frontend handoff</a> ·
   <a href="USERJOURNEY.md">User journey</a>
 </p>
 
@@ -130,13 +130,13 @@ configuration. Run `npm run gate` before shipping.
 
 ## Docs
 
-- [Submission sheet](SUBMISSION.md)
+- [Submission sheet](https://github.com/ackrate/ackrate-research-arena/blob/01d9b9b38b92c87d2bc663d76a1a97dda2686ea3/SUBMISSION.md)
 - [User journey](USERJOURNEY.md)
 - [API reference](API.md)
 - [Architecture](ARCHITECTURE.md)
-- [Frontend handoff](FRONTEND_HANDOFF.md)
+- [Frontend handoff](https://github.com/ackrate/ackrate-research-arena/blob/01d9b9b38b92c87d2bc663d76a1a97dda2686ea3/FRONTEND_HANDOFF.md)
 - [Hackathon scope and disclosure](HACKATHON.md)
-- [Package provenance](docs/PACKAGE_PROVENANCE.md)
+- [Package provenance](https://github.com/ackrate/ackrate-research-arena/blob/01d9b9b38b92c87d2bc663d76a1a97dda2686ea3/docs/PACKAGE_PROVENANCE.md)
 - [Judge readiness gate](docs/JUDGE_GATE.md)
 
 ## Final Devfolio checklist
@@ -171,3 +171,5 @@ milestone repositories were not modified.
 [GitHub](https://github.com/reapp-protocol/ackrate-research-arena) ·
 [ackrate packages](https://www.npmjs.com/org/ackrate) ·
 [MandateRegistry](https://stellar.expert/explorer/testnet/contract/CCHQ5G4Y4YBMY6D3TYYJSVJVCKUM22Q6TMKCCHVAHY4X7K6QELQACZRM)
+
+Dated evidence links above preserve the original repository publication at an immutable revision. Maintainers keep the authoritative original files and provenance in the [Ackrate project artifact archive](https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena); these links do not update the historical results.

@@ -9,9 +9,11 @@ Agentic Commerce Hackathon project.
   milestone repository while working on this project.
 - Do not depend on an unpublished file, branch, service, or secret from another
   repository.
-- Put all hackathon product code, infrastructure configuration, database
-  migrations, integration code, tests, evidence, and submission documentation
-  in this repository.
+- Put hackathon product code, infrastructure configuration, database migrations,
+  integration code, tests, and technical documentation in this repository.
+  Preserve authored evidence and submission records in the canonical project
+  wiki as described below; references may link their immutable original
+  repository publication.
 - Historical protocol work may be cited in the disclosure, but it is not the
   product identity. All public branding is lowercase `ackrate`.
 
@@ -57,3 +59,9 @@ Before pushing a feature:
 3. Run `npm test` when tests cover the changed area.
 4. Run `npm run build` for integration or deployment changes.
 5. Confirm no secret or payment credential appears in the diff.
+
+## Project knowledge and task artifacts
+
+Authored plans, review reports, run evidence, screenshots, and handoff artifacts belong in the canonical [Ackrate project wiki](https://github.com/ackrate/ackrate-project). Commit original Markdown evidence through its `instance/scripts/knowledge.mjs` ingest workflow into `sources/`; retain original artifact bytes under `instance/artifacts/`. Do not commit these task outputs in this code repository. Keep executable source, test fixtures, package/build inputs, and technical API/usage documentation here.
+
+Historical artifacts from this repository are preserved in [the project artifact archive](https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena). Update project task status in the parent wiki.

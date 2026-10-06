@@ -9,9 +9,11 @@ Agentic Commerce Hackathon project.
   milestone repository while working on this project.
 - Do not depend on an unpublished file, branch, service, or secret from another
   repository.
-- Put all hackathon product code, infrastructure configuration, database
-  migrations, integration code, tests, evidence, and submission documentation
-  in this repository.
+- Put hackathon product code, infrastructure configuration, database migrations,
+  integration code, tests, and technical documentation in this repository.
+  Preserve authored evidence and submission records in the canonical project
+  wiki as described below; references may link their immutable original
+  repository publication.
 - Historical protocol work may be cited in the disclosure, but it is not the
   product identity. All public branding is lowercase `ackrate`.
 

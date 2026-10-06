@@ -4,7 +4,7 @@
 
 This repository contains executable product and infrastructure source, test
 fixtures, and developer documentation. Authored evidence, planning, review, and
-submission records are retained in the [Ackrate project wiki artifact archive](https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena).
+submission records retain access through their immutable original publication linked below; their authoritative copies are retained in the [Ackrate project wiki artifact archive](https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena).
 
 All executable work intended for judging is committed here. T3 and milestone repositories
 are frozen and outside this project's implementation scope.
@@ -51,4 +51,4 @@ experience are new hackathon work in this repository.
 - [ ] Devfolio submission published before the deadline
 
 The exact short submission copy, eligible tracks, verified live evidence, and
-remaining manual steps are in [SUBMISSION.md](https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena/SUBMISSION.md).
+remaining manual steps are in [SUBMISSION.md](https://github.com/ackrate/ackrate-research-arena/blob/01d9b9b38b92c87d2bc663d76a1a97dda2686ea3/SUBMISSION.md).

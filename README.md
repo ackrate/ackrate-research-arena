@@ -41,7 +41,7 @@ budget-compliant evidence portfolio.
   <a href="https://ackratearena.xyz/app">Launch product</a> ·
   <a href="API.md">API reference</a> ·
   <a href="ARCHITECTURE.md">Architecture</a> ·
-  <a href="FRONTEND_HANDOFF.md">Frontend handoff</a> ·
+  <a href="https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena/FRONTEND_HANDOFF.md">Frontend handoff</a> ·
   <a href="USERJOURNEY.md">User journey</a>
 </p>
 
@@ -130,13 +130,13 @@ configuration. Run `npm run gate` before shipping.
 
 ## Docs
 
-- [Submission sheet](SUBMISSION.md)
+- [Submission sheet](https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena/SUBMISSION.md)
 - [User journey](USERJOURNEY.md)
 - [API reference](API.md)
 - [Architecture](ARCHITECTURE.md)
-- [Frontend handoff](FRONTEND_HANDOFF.md)
+- [Frontend handoff](https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena/FRONTEND_HANDOFF.md)
 - [Hackathon scope and disclosure](HACKATHON.md)
-- [Package provenance](docs/PACKAGE_PROVENANCE.md)
+- [Package provenance](https://github.com/ackrate/ackrate-project/blob/main/instance/artifacts/108-other-repository-artifacts/ackrate-research-arena/docs/PACKAGE_PROVENANCE.md)
 - [Judge readiness gate](docs/JUDGE_GATE.md)
 
 ## Final Devfolio checklist

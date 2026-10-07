@@ -55,7 +55,8 @@ function fixtureArena(): Arena {
   };
 }
 
-test("rebuilds the exact AP2 mandate that the arena fingerprint commits to", () => {
+test("rebuilds the exact AP2 mandate that the arena fingerprint commits to", (t) => {
+  t.mock.timers.enable({ apis: ["Date"], now: new Date("2026-08-02T01:02:03.456Z") });
   const arena = fixtureArena();
   const rebuilt = rebuildArenaBinding(arena);
 
@@ -65,7 +66,8 @@ test("rebuilds the exact AP2 mandate that the arena fingerprint commits to", () 
   assert.equal(rebuilt.signer.publicKey(), arenaTestnetSigner(arena.id).publicKey());
 });
 
-test("reconstructs legacy fingerprints without trusting an unverified expiry", () => {
+test("reconstructs legacy fingerprints without trusting an unverified expiry", (t) => {
+  t.mock.timers.enable({ apis: ["Date"], now: new Date("2026-08-02T01:02:03.456Z") });
   const arena = fixtureArena();
   delete arena.fingerprint.expiresAt;
 
